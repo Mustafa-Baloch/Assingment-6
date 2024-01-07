@@ -1,0 +1,168 @@
+
+
+.root{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    background-color: rgba(0, 98, 209, 0.8);
+
+    
+    
+}
+#t1:hover{
+    color: #1DA1F2;
+}
+
+
+
+
+
+.d1{
+    border: solid;
+    width: 400px;
+    height: 450px;
+    display: inline;
+    border-radius: 15px;
+    margin: 30px;
+    cursor: pointer;
+    background-color: rgb(167, 165, 165);
+  
+
+}
+
+.d1:hover{
+    transform: rotate(8deg);
+    background-color: rgb(243, 247, 250);
+}
+
+
+
+h1{
+    text-align: center;
+    font-family: 'Shadows Into Light', cursive;
+    
+}
+
+
+p{
+    text-align: center;
+    
+    
+}
+.t{
+    margin-left: 150px;
+    margin-top: 20px;
+    
+    
+}
+.t:hover{
+    fill: #1DA1F2;
+}
+
+.read{
+    border: solid;
+    margin-left: 120px;
+    margin-right: 130px;
+    height: 30px;
+
+}
+
+span{
+    padding-left: 5px;
+    font-size: 20px;
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bold;
+    text-align: center;
+
+    
+}
+.p{
+    font-family: 'Shadows Into Light', cursive;
+    text-align: justify;
+    font-weight: 900;
+    
+}
+
+
+
+
+.d2{
+    border: solid;
+    width: 400px;
+    height: 450px;
+    border-radius: 15px;
+    margin: 30px;
+    cursor: pointer;
+    background-color: rgb(167, 165, 165);
+
+}
+.d2:hover{
+    transform: rotate(8deg);
+    background-color: rgb(243, 247, 250);
+    
+}
+
+.i:hover{
+    fill: HSL(340, 75%, 54%);
+    
+}
+#i1:hover{
+    color: HSL(340, 75%, 54%);
+}
+.i{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.d3{
+    border: solid;
+    width: 400px;
+    height: 450px;
+    border-radius: 15px;
+    margin: 30px;
+    cursor: pointer;
+    background-color: rgb(167, 165, 165);
+
+}
+
+.d3:hover{
+    transform: rotate(8deg);
+    background-color: rgb(243, 247, 250);
+}
+
+.y{
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+#y1:hover{
+    color:#CD201F ;
+
+}
+
+.y:hover{
+    fill:  #CD201F;
+}
+
+.read:hover{
+    background-color: rgb(113, 113, 177);
+}
+
+
+
+.read{
+    border-radius:10px;
+}
+
+
+.logo{
+    margin-left:10px ;
+    margin: 10px;
+}
+.d{
+    background-color: rgb(161, 167, 179);
+}
+
+
+
+
